@@ -1,6 +1,6 @@
 //  Clone server Model One
 
-#include "kvsimple.c"
+#include "kvsimple.h"
 
 int main (void)
 {
